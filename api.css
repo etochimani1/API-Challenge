@@ -1,0 +1,19 @@
+body{
+
+    background-image: url('./assets2/images.png');
+}
+
+h1{
+    text-align: center;
+    height: 40px;
+    border width: 10px 4px 20px;
+    background-image: linear-gradient(brown, white);
+
+}
+
+p{
+    text-align: center;
+    border: brown;
+    border-style: dotted;
+    
+}
